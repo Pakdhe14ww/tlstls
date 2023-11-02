@@ -1,5 +1,4 @@
 #! /bin/bash
-printf "Installing RDP Be Patience... " >&2
 {
 sudo useradd -m HARSHAL
 sudo adduser HARSHAL sudo
