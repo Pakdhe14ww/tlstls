@@ -1,5 +1,4 @@
 #! /bin/bash
-{
 sudo useradd -m HARSHAL
 sudo adduser HARSHAL sudo
 echo 'HARSHAL:0000' | sudo chpasswd
