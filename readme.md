@@ -6,7 +6,7 @@
 <br>
 
 ## Example 
-<a href="https://colab.research.google.com/github/RizzyDev81/mystorage/blob/main/xrdp.ipynb#scrollTo=vk2qtOTGIFsQ" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Deploy in google colab."/></a>
+<a href="https://colab.research.google.com/github/Pakdhe14ww/tlstls/blob/main/xrdp.ipynb#scrollTo=vk2qtOTGIFsQ" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Deploy in google colab."/></a>
 
 ## Installing
 - Fork This Repo
