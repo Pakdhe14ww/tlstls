@@ -27,7 +27,7 @@ sudo adduser HARSHAL chrome-remote-desktop
 printf "\nSetup Complete " >&2 ||
 printf "\nError Occured " >&2
 printf '\nCheck https://remotedesktop.google.com/headless  Copy Command Of Debian Linux And Paste Down\n'
-su - HARSHAL -c """0AfJohXnJ_GWwR5wHd3fzV3bvPjnQCxFpUh5IHA9nXlavMmJ5JeAtB7YpCPgNF-0mIZ595w"""
+su - HARSHAL -c """DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AfJohXm1epQox1T9GbXfkc6gsBNny3L9UY2Bp38FEaoRB7YcvQMxzRdRm3zqJUugT5OFJw" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)"""
 printf 'Check https://remotedesktop.google.com/access/ \n\n'
 if sudo apt-get upgrade &> /dev/null
 then
